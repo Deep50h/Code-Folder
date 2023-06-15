@@ -1,1 +1,1 @@
-# Code-Folder
+Throughout these coding projects, I learned many things. Although they were simple, they taught me how to utilize APIs and integrate GUIs. Furthermore, I was able to explore the boundaries of Python and understand its possibilities. Most importantly,  I was able to learn how to utilize coding languages like Python to help in real-world situations and integrate them into my daily life as well. Having an automation project that I could use on a daily basis was my goal with the Interactive calculator and Weather Fetcher. 
